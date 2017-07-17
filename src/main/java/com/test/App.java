@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hellsfsdfsdfo Testing 8 World!-for kanna" );
+        System.out.println( "Hellsfsdfsdfo Testing 8 World!- kanna" );
     }
 }
